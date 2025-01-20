@@ -1,0 +1,2 @@
+# AlgorithmicTradingProject
+Algorithmic Trading Project
